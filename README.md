@@ -21,9 +21,9 @@
 - [Donate](#Donate)
 - [Contatos](#Contacto)
 
-# 🤔 O que é ?
+# 🤔 ?que és
+Brizas-bot es un bot basado en [MhankBars]-(https://github.com/RodDs3/termux-wabot) que ha sido modificado y agregado varios comandos que fueron desarrollados principalmente para satisfacer al pueblo latinoamericano, con generador de ciudadanos, CPF, y CC, y mucho más, próximamente se lanzará una base traducida y con algunos comandos Brizas-bot para que los usuarios puedan editar con total libertad
 
-Brizas-bot es un bot basado en [MhankBars]-(https://github.com/RodDs3/termux-wabot) que ha sido modificado y agregado varios comandos que fueron desarrollados principalmente para satisfacer al pueblo brasileño, con generador de ciudadanos, CPF, y CC, y mucho más, próximamente se lanzará una base traducida y con algunos comandos Brizas-bot para que los usuarios puedan editar con total libertad
 
 ---
 
